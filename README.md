@@ -1,4 +1,4 @@
-Sure, here is an overview of essential statistics and mathematics concepts for machine learning and data science, enhanced with emojis to make it engaging!
+Lets Summarize!!
 
 ### **1. Descriptive Statistics 📊**
 - **Mean (Average)**: Sum of all values divided by the number of values.
